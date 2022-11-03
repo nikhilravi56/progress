@@ -3,7 +3,7 @@
 
 ---
 
-[Nikhil Ravi](https://auth.geeksforgeeks.org/user/nikhilravi56/,"My Profile")
+My Profile: [Nikhil Ravi](https://auth.geeksforgeeks.org/user/nikhilravi56/)
 
 ---
 
